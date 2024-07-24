@@ -1,0 +1,23 @@
+2024-07-24 07:02:47.839 [info] Extension host with pid 8149 started
+2024-07-24 07:02:48.048 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-24 07:02:48.126 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-24 07:02:48.236 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-24 07:02:48.386 [info] Eager extensions activated
+2024-07-24 07:02:48.406 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:02:48.410 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:03:12.629 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-24 07:03:12.647 [info] Extension host with pid 8149 exiting with code 0
+2024-07-24 07:03:14.092 [info] Extension host with pid 8238 started
+2024-07-24 07:03:14.092 [info] Skipping acquiring lock for /media/epic-nguyen/WORKSPACE/dev/learn-react/~/.vscode-root/User/workspaceStorage/18f6120b3688753f71a0351e89fc94a0.
+2024-07-24 07:03:14.334 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-24 07:03:14.339 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-24 07:03:14.419 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-24 07:03:14.448 [info] Eager extensions activated
+2024-07-24 07:03:14.453 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:03:14.456 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:03:19.215 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-24 07:03:34.756 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-07-24 07:03:34.856 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-24 07:03:35.580 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-07-24 07:03:44.552 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-24 07:03:44.633 [info] Extension host with pid 8238 exiting with code 0

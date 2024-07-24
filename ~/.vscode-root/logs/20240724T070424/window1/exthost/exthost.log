@@ -1,0 +1,13 @@
+2024-07-24 07:04:27.261 [info] Extension host with pid 9877 started
+2024-07-24 07:04:27.261 [info] Skipping acquiring lock for /media/epic-nguyen/WORKSPACE/dev/learn-react/~/.vscode-root/User/workspaceStorage/18f6120b3688753f71a0351e89fc94a0.
+2024-07-24 07:04:27.531 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-24 07:04:27.541 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-07-24 07:04:28.722 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-24 07:04:28.727 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-24 07:04:28.835 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-24 07:04:28.890 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-24 07:04:29.119 [info] Eager extensions activated
+2024-07-24 07:04:29.384 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:04:29.398 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-24 07:05:51.169 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-24 07:05:51.194 [info] Extension host with pid 9877 exiting with code 0

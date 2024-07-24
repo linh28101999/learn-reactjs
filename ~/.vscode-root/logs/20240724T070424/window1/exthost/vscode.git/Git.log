@@ -1,0 +1,30 @@
+2024-07-24 07:04:29.536 [info] Log level: Info
+2024-07-24 07:04:29.536 [info] Validating found git in: "git"
+2024-07-24 07:04:29.536 [info] Using git "2.43.0" from "git"
+2024-07-24 07:04:29.536 [info] > git rev-parse --show-toplevel [9ms]
+2024-07-24 07:04:29.536 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:29.536 [info] > git rev-parse --show-toplevel [92ms]
+2024-07-24 07:04:29.536 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:29.536 [info] > git rev-parse --show-toplevel [41ms]
+2024-07-24 07:04:29.536 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:29.548 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-24 07:04:29.548 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:29.570 [info] > git rev-parse --show-toplevel [11ms]
+2024-07-24 07:04:29.570 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:30.124 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-24 07:04:30.125 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:30.951 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-24 07:04:30.951 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:04:31.712 [info] > git rev-parse --show-toplevel [25ms]
+2024-07-24 07:04:31.712 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-24 07:05:38.149 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-24 07:05:38.149 [info] fatal: not a git repository (or any parent up to mount point /media/epic-nguyen)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
